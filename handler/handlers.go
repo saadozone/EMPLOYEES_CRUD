@@ -9,7 +9,7 @@ import (
 	"github.com/itsmaheshkariya/gin-gorm-rest/models"
 	services "github.com/itsmaheshkariya/gin-gorm-rest/service"
 )
-
+ 
 type EmployeeHandler struct {
 	EmployeeService services.Service
 }
