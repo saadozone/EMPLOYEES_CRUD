@@ -1,3 +1,3 @@
-# gin-gorm-rest
+# EMPLOYEE-CRUD
 
-This is Rest Api App
+This is Rest Api App with authentication and unit tests .
