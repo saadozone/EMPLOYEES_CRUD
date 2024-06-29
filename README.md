@@ -23,7 +23,6 @@ Private API Request Flow with JWT Authentication Middleware
 
 How to run this project?
 
-Clone this project
 # Move to your workspace
 ```cd your-workspace```
 
