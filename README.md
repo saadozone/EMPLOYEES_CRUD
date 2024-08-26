@@ -1,7 +1,7 @@
 # Go Backend Clean Architecture 
 
 This is Rest Api App with authentication and unit tests.  
-A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. 
 
 ![go-backend-clean-architecture (1)-1](https://github.com/saadozone/EMPLOYEES_CRUD/assets/125872373/a49a1c06-2965-4fce-b67a-698ad556a02b)
 
