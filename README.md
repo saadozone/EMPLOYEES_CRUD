@@ -9,7 +9,7 @@ Architecture Layers of the project:
  
 1) Router   
 2) Handler
-3) Service   
+3) Service    
 4) Store 
 5) DB interaction 
 
