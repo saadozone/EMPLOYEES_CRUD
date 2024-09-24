@@ -11,7 +11,7 @@ Architecture Layers of the project:
 2) Handler
 3) Service     
 4) Store  
-5) DB interaction 
+5) DB interaction  
 
 ![image](https://github.com/saadozone/EMPLOYEES_CRUD/assets/125872373/3bad2ded-a868-43d5-af95-9f6586c37dc0)
 
