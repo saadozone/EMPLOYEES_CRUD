@@ -7,7 +7,7 @@ A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authenti
 
 Architecture Layers of the project: 
  
-1) Router   
+1) Router    
 2) Handler
 3) Service     
 4) Store  
